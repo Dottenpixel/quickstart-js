@@ -1,9 +1,12 @@
 // TODO(DEVELOPER): Change the values below using values from the initialization snippet: Firebase Console > Overview > Add Firebase to your web app.
 // Initialize Firebase
 var config = {
-  apiKey: '<YOUR_API_KEY>',
-  databaseURL: '<YOUR_DATABASE_URL>',
-  storageBucket: '<YOUR_STORAGE_BUCKET_NAME>'
+  apiKey: "AIzaSyCmWJmhBIsJ8pHx_faAxun5XaMBeyZEFn4",
+  authDomain: "dly-ext-saved-contacts-dev.firebaseapp.com",
+  databaseURL: "https://dly-ext-saved-contacts-dev.firebaseio.com",
+  projectId: "dly-ext-saved-contacts-dev",
+  storageBucket: "dly-ext-saved-contacts-dev.appspot.com",
+  messagingSenderId: "999208686170"
 };
 firebase.initializeApp(config);
 
