@@ -1,6 +1,5 @@
 // TODO(DEVELOPER): Change the values below using values from the initialization snippet: Firebase Console > Overview > Add Firebase to your web app.
 // Initialize Firebase
-// Initialize Firebase
   var config = {
     apiKey: "AIzaSyCmWJmhBIsJ8pHx_faAxun5XaMBeyZEFn4",
     authDomain: "dly-ext-saved-contacts-dev.firebaseapp.com",
