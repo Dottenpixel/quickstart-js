@@ -93,7 +93,7 @@ function startSignIn() {
   if (firebase.auth().currentUser) {
     firebase.auth().signOut();
   } else {
-    startAuth(true);
+    startAuth(false);
   }
 }
 
