@@ -18,7 +18,7 @@
   ],
   "content_security_policy":"script-src 'self' https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'",
   "oauth2": {
-    "client_id": "999208686170-7aiqh2gm4dv5apkfb4tdgt078pm2oe6e.apps.googleusercontent.com",
+    "client_id": "999208686170-bfac4dun74aldhbpmn9g4s47963jhf2k.apps.googleusercontent.com",
     "scopes": [
       "https://www.googleapis.com/auth/userinfo.email",
       "https://www.googleapis.com/auth/userinfo.profile"
